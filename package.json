@@ -1,0 +1,22 @@
+{
+  "name": "ballenitamod",
+  "version": "1.0.0",
+  "description": "dot to dot videogame",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmrsuarez/ballenitamod.git"
+  },
+  "keywords": [
+    "videogame"
+  ],
+  "author": "Nathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmrsuarez/ballenitamod/issues"
+  },
+  "homepage": "https://github.com/jmrsuarez/ballenitamod#readme"
+}
